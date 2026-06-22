@@ -1,51 +1,22 @@
-SweetCrumbs Bakery Website
-Overview
+# SweetCrumbs Bakery Website
 
-SweetCrumbs Bakery is a classic, table-based HTML website designed for a fictional artisan bakery located in Nairobi, Kenya. The website showcases the bakery’s products, company information, promotional offers, and customer-focused content using traditional HTML elements without relying on modern CSS frameworks or JavaScript libraries.
+# Overview 
+SweetCrumbs Bakery is a simple, table-based HTML website for a fictional artisan bakery in Nairobi, Kenya. The site showcases the bakery’s products, company details, special offers, and customer-focused content. It uses traditional HTML elements without modern CSS frameworks or JavaScript libraries. The project highlights structured HTML layouts, navigation links, tables, typography, and organized content to create a complete business website. 
+# Features 
 
-The project demonstrates the use of structured HTML layouts, navigation anchors, tables, typography styling, and content organization to create a complete business website.
+# Homepage
+A warm welcome featuring the bakery, a promotional tagline and brand message, and call-to-action buttons that direct visitors to the menu and contact sections 
 
-Features
-🏠 Homepage
-Welcoming hero section introducing the bakery
-Promotional tagline and brand messaging
-Call-to-action buttons directing visitors to the menu and contact sections
-📢 Announcement Banner
-Promotional strip displaying current offers and discounts
-Highlights special deals such as coupon-based savings
-ℹ️ About Us
-Company history and background
-Business mission statement
-Statistics section showing:
-Years in operation
-Number of available products
-Customer reach
-🍰 Menu Section
-Detailed bakery product catalog
-Includes:
-Product names
-Descriptions
-Pricing
-Stock availability
-🧭 Navigation System
-Anchor-based internal navigation
-Quick access to:
-Home
-About
-Menu
-Specials
-Gallery
-Reviews
-Contact
-📞 Business Information
-Physical location
-Contact phone number
-Business operating hours
-Technologies Used
-HTML5
-Table-Based Layout Design
-Internal Anchor Navigation
-Inline Styling with HTML Attributes
-Traditional Font Formatting Tags
+# Announcement Banner 
+A strip showing current offers and discounts, special deals, including coupon savings 
 
-No external libraries, frameworks, CSS files, or JavaScript dependencies are required.
+# About Us 
+The history and background of the company, the business mission, a statistics section that shows: Years in operation, ion Number of products available, Customer reach 
+
+# Menu Section A detailed catalog of bakery products includes: Product names, Descriptions, Pricing, and Availability 
+
+# Navigation System 
+Internal navigation based on anchor Quick access to: Home About Menu Specials Gallery Reviews Contact 
+
+# Business Information 
+Physical address Contact number Business hours Technologies Used HTML5 Table-based layout design Internal anchor navigation Inline styling with HTML attributes Traditional font formatting tags No external libraries, frameworks, CSS files, or JavaScript dependencies are needed.
