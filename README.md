@@ -13,10 +13,24 @@ A strip showing current offers and discounts, special deals, including coupon sa
 # About Us 
 The history and background of the company, the business mission, a statistics section that shows: Years in operation, ion Number of products available, Customer reach 
 
-# Menu Section A detailed catalog of bakery products includes: Product names, Descriptions, Pricing, and Availability 
+# Menu Section 
+A detailed catalog of bakery products includes: Product names, Descriptions, Pricing, and Availability. 
 
 # Navigation System 
 Internal navigation based on anchor Quick access to: Home About Menu Specials Gallery Reviews Contact 
 
 # Business Information 
-Physical address Contact number Business hours Technologies Used HTML5 Table-based layout design Internal anchor navigation Inline styling with HTML attributes Traditional font formatting tags No external libraries, frameworks, CSS files, or JavaScript dependencies are needed.
+Physical address
+Contact number
+Business hours. 
+
+# Technologies Used
+HTML5
+Table-based layout design 
+Internal anchor navigation
+Inline styling with HTML attributes. 
+Traditional font formatting tags. 
+No external libraries 
+frameworks
+CSS files
+JavaScript dependencies are needed.
